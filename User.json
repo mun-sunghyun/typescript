@@ -7,16 +7,22 @@
 {
 "id":2,
 "name":"김 희애",
-"age": 45
+"age": 45,
+"personalColor":"hotpink",
+"hobbies":["travel"]
 },
 {
 "id":3,
 "name":"고 아라",
-"age": 45
+"age": 45,
+"personalColor":"pink",
+"hobbies":["game"]
 },
 {
 "id":4,
 "name":"김 민정",
-"age": 45
+"age": 45,
+"personalColor":"purple",
+"hobbies":["soccer"]
 }
 ]
